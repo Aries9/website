@@ -1,4 +1,6 @@
-## No Kids No Allowed
+## No Kids Allowed
+
+This is a blog dedicated to my random thoughts and nonsense.
 
 You can use the [editor on GitHub](https://github.com/Aries9/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
